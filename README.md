@@ -12,7 +12,7 @@ I’m also interested in game development and enjoy exploring how software engin
 
 💻 Technologies & Tools
 
-Languages
+Languages 
 
 * C#
 * TypeScript
